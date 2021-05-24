@@ -1,4 +1,4 @@
-#How to easily use react Icons
+# How to easily use react Icons
 
 Here's how to use a react-icon library to easily use an icon in a react application.
 

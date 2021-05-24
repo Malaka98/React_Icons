@@ -1,3 +1,8 @@
+#How to easily use react Icons
+
+Here's how to use a react-icon library to easily use an icon in a react application.
+
+React_Icons documentation : - https://react-icons.github.io/react-icons
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
